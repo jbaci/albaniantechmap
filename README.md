@@ -1,7 +1,7 @@
 # ABOUT PROJECT
-
+A small project worked with @jbaci !
 ## Deployment 🚀
-[CLICK TO OPEN IN BROWSER: KLIKO PER TA HAPUR NE BROWSER ](https://albaniantechcompanies.netlify.app/)🔗
+[CLICK TO OPEN IN BROWSER //// KLIKO PER TA HAPUR NE BROWSER ](https://albaniantechcompanies.netlify.app/)🔗
 
 
 ## Available Scripts
