@@ -1,7 +1,11 @@
 # ABOUT PROJECT
-A small project worked with @jbaci !
-## Deployment 🚀
+A map of tech companies in Albania
+
+
 [CLICK TO OPEN IN BROWSER //// KLIKO PER TA HAPUR NE BROWSER ](https://albaniantechcompanies.netlify.app/)🔗
+
+## Deployment 🚀
+[CLICK TO OPEN IN BROWSER: ](https://albaniantechcompanies.netlify.app/)🔗
 
 
 ## Available Scripts
