@@ -1,7 +1,8 @@
 # ABOUT PROJECT
+A map of tech companies in Albania
 
 ## Deployment 🚀
-[CLICK TO OPEN IN BROWSER: KLIKO PER TA HAPUR NE BROWSER ](https://albaniantechcompanies.netlify.app/)🔗
+[CLICK TO OPEN IN BROWSER: ](https://albaniantechcompanies.netlify.app/)🔗
 
 
 ## Available Scripts
